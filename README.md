@@ -48,7 +48,7 @@ Sri Krishna College of Technology, Coimbatore &nbsp;·&nbsp; Apr 2023 – May 20
 
 ---
 
-### 🎓 College Management System &nbsp;·&nbsp; `Django` `Python` `SQLite` &nbsp;·&nbsp; [GitHub](#)
+### 🎓 College Management System &nbsp;·&nbsp; `Django` `Python` `SQLite` &nbsp;·&nbsp; [https://github.com/Chiranjith18/schoolmanagementsystem](#)
 
 - Full-stack web app with **3 role-based dashboards** — Admin, Teacher, and Student
 - Modules for subject/semester management, attendance tracking, and marks assignment with role-specific access control
