@@ -49,22 +49,23 @@ Sri Krishna College of Technology, Coimbatore &nbsp;·&nbsp; Apr 2023 – May 20
 ---
 
 ### 🎓 College Management System &nbsp;·&nbsp; `Django` `Python` `SQLite` &nbsp;·&nbsp; 
-**[Github]
-(https://github.com/Chiranjith18/schoolmanagementsystem)**
+**[Github](https://github.com/Chiranjith18/schoolmanagementsystem)**
 
 - Full-stack web app with **3 role-based dashboards** — Admin, Teacher, and Student
 - Modules for subject/semester management, attendance tracking, and marks assignment with role-specific access control
 
 ---
 
-### 🚛 Food Truck Vendor License Application System &nbsp;·&nbsp; `React.js` `Spring Boot` `MySQL` &nbsp;·&nbsp; **[GitHub](https://github.com/Chiranjith18/food-truck-vendor-license)**
+### 🚛 Food Truck Vendor License Application System &nbsp;·&nbsp; `React.js` `Spring Boot` `MySQL` &nbsp;·&nbsp;
+**[GitHub](https://github.com/Chiranjith18/food-truck-vendor-license)**
 
 - Full-stack licensing platform with a **4-stage workflow**: vendor registration → admin approval → reviewer evaluation → inspector verification
 - Built with **RESTful APIs** for seamless cross-layer communication
 
 ---
 
-### 🍽️ Restaurant Reviews Scraper &nbsp;·&nbsp; `Java` `Selenium` &nbsp;·&nbsp; [GitHub](#)
+### 🍽️ Restaurant Reviews Scraper &nbsp;·&nbsp; `Java` `Selenium` &nbsp;·&nbsp; 
+**[GitHub](https://github.com/Chiranjith18/reviewscraper)**
 
 - Automated large-scale data collection of user reviews using **Java Selenium** for analysis pipelines
 
