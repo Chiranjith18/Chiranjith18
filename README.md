@@ -1,16 +1,59 @@
-## Hi there 👋
+Hi, I'm Chiranjith Dharma S 👋
+Aspiring Software Engineer · AI & ML Enthusiast · Full-Stack Developer
+📍 Madurai, Tamil Nadu · 📧 chiranjith2006@gmail.com · 📞 6385631401
+Show Image
 
-<!--
-**Chiranjith18/Chiranjith18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏆 Highlight
 
-Here are some ideas to get you started:
+🥇 Ranked 12th Globally — Solafune International Construction Cost Prediction Competition
+Competed against hundreds of participants worldwide. Built a 2-stage stacked CatBoost ensemble with GroupKFold cross-validation on geolocation groups to prevent spatial data leakage. Engineered features including target encoding, country-year interactions, and log-relative target transformation to handle high-variance cost distributions across regions.
+👉 View Leaderboard ->https://solafune.com/competitions/1918ccd7-eb06-4cfc-822f-a9823c63b2c1?menu=lb&tab=private
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🎓 Education
+B.E. Computer Science and Engineering
+Sri Krishna College of Technology, Coimbatore · Apr 2023 – May 2027
+
+🛠️ Projects
+🏗️ Solafune Global Construction Cost Prediction · Python CatBoost Scikit-learn
+
+Ranked 12th globally out of hundreds of participants in an international ML competition
+Built a 2-stage stacked ensemble (base + residual CatBoost models) with GroupKFold cross-validation to prevent spatial data leakage
+Engineered target encoding, country-year interactions, and log-relative target transformation for high-variance regional cost distributions
+👉 Leaderboard ->https://solafune.com/competitions/1918ccd7-eb06-4cfc-822f-a9823c63b2c1?menu=lb&tab=private
+
+
+🎓 College Management System · Django Python SQLite · GitHub
+
+Full-stack web app with 3 role-based dashboards — Admin, Teacher, and Student
+Modules for subject/semester management, attendance tracking, and marks assignment with role-specific access control
+
+
+🚛 Food Truck Vendor License Application System · React.js Spring Boot MySQL · GitHub
+
+Full-stack licensing platform with a 4-stage workflow: vendor registration → admin approval → reviewer evaluation → inspector verification
+Built with RESTful APIs for seamless cross-layer communication
+
+
+🍽️ Restaurant Reviews Scraper · Java Selenium · GitHub
+
+Automated large-scale data collection of user reviews using Java Selenium for analysis pipelines
+
+
+💡 Skills
+DomainTechnologiesLanguagesJava, Python, SQLWebDjango, React.js, Spring BootML / DataCatBoost, Scikit-learn, Data Science Methodologies, Machine LearningToolsGit, GitHub, Selenium, JUnit, Microsoft Excel, Power BI
+
+🏅 Achievements & Certifications
+
+🥇 Ranked 12th Globally — Solafune ML Competition · Leaderboard
+☁️ Oracle Cloud Infrastructure 2025 — Certified AI Foundations Associate · Verify ->https://catalog-education.oracle.com/ords/certview/sharebadge?id=F2252A0A89041BB1D4FCB78DC08A4EB04F334C40906B77660D5CD27870954CC8
+☁️ Oracle Cloud Infrastructure 2025 — Certified Data Science Professional · Verify->https://catalog-education.oracle.com/ords/certview/sharebadge?id=DA2D68047CC5B1FD5E6814B1DD38FF40CFABFE08AA2D7B7C2030488207752DBE
+🗄️ Database Management Systems — Coursera Certified ->https://www.coursera.org/account/accomplishments/verify/M2V3YJXJBUO3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
+🧱 Object-Oriented Programming — Coursera Accredited->https://www.coursera.org/account/accomplishments/verify/8AMG3J2TTSH7?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
+💻 Solved 141 LeetCode Problems · Profile ->https://leetcode.com/u/chiranjith2006/
+
+
+🌐 Languages
+Tamil · English
+
+Open to internships, collaborations, and full-time opportunities in software engineering and AI/ML.
