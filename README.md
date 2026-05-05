@@ -57,7 +57,7 @@ Sri Krishna College of Technology, Coimbatore &nbsp;·&nbsp; Apr 2023 – May 20
 
 ---
 
-### 🚛 Food Truck Vendor License Application System &nbsp;·&nbsp; `React.js` `Spring Boot` `MySQL` &nbsp;·&nbsp; [GitHub](#)
+### 🚛 Food Truck Vendor License Application System &nbsp;·&nbsp; `React.js` `Spring Boot` `MySQL` &nbsp;·&nbsp; **[GitHub](https://github.com/Chiranjith18/food-truck-vendor-license)**
 
 - Full-stack licensing platform with a **4-stage workflow**: vendor registration → admin approval → reviewer evaluation → inspector verification
 - Built with **RESTful APIs** for seamless cross-layer communication
